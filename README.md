@@ -52,4 +52,4 @@ There's no build step. Just open `index.html` in your browser and start playing.
 
 This was built as a learning project, so the code isn't perfectly clean everywhere   it's a work in progress like I am. Feedback welcome if you spot something dumb.
 
-snsappp.github.io/connect4/
+[snsappp.github.io/connect4/](https://snsappp.github.io/connect4/)
